@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D4F7-6C8E
+
+ R‚pertoire de C:\ateliers\app1
+
+13/03/2024  22:50    <DIR>          .
+13/03/2024  22:50    <DIR>          ..
+13/03/2024  22:48                 0 f2.txt
+13/03/2024  22:41               365 fichier1.txt
+13/03/2024  22:50                 0 fichier2.txt
+               3 fichier(s)              365 octets
+               2 R‚p(s)  34ÿ912ÿ985ÿ088 octets libres
